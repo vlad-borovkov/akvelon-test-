@@ -64,7 +64,6 @@ const App = () => {
         return data;
       })
       .then((data) => {
-        console.log(data);
         if (data.id) {
           stopGettingData();
           getCurrentUserId(data.id); // getcurrent user id
@@ -84,8 +83,9 @@ const App = () => {
     auth
       .authorize(registerValue)
       .then((data) => {
-        if (data.message) {
-          setPopupErrorMessage(data.message);
+        if (data.error) {
+          stopGettingData();
+          setPopupErrorMessage(data.error);
           pushFailRegistration();
         }
         return data;
