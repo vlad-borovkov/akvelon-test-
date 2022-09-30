@@ -1,0 +1,21 @@
+.entry-user__container-form-submit-button {
+  width: 473px;
+  height: 63px;
+
+  font-family: Inter, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+
+  color: #FFFFFF;
+
+  background: radial-gradient(269.84% 2626.86% at 114.84% 369.84%, #E46BBB 0%, #E280C1 8.33%, #D9D9D9 43.75%, #EB78BD 43.76%, rgba(183, 46, 178, 0.94) 100%);
+  border-radius: 13px;
+  margin-top: 70px;
+}
+
+.entry-user__container-form-submit-button:hover {
+  cursor: pointer;
+  opacity: 0.85;
+}

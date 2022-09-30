@@ -1,0 +1,8 @@
+.entry-user {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    height: 650px;
+    background-color: #17181E;
+    /* padding-top: 60px; */
+}

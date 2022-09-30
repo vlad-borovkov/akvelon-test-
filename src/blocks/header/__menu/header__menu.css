@@ -1,0 +1,8 @@
+.header__menu {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    z-index: 1;
+}

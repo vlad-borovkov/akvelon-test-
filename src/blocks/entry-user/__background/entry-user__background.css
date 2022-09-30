@@ -1,0 +1,9 @@
+.entry-user__background {
+    display: flex;
+    position: absolute;
+    top: -25px;
+    z-index: 0;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 650px;
+}

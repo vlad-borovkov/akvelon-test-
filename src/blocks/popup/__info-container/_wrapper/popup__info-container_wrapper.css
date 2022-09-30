@@ -1,0 +1,7 @@
+.popup__info-container_wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 22vw;
+}

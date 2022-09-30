@@ -1,0 +1,13 @@
+.entry-user__background_item {
+    width: 90px;
+    z-index: 0;
+    position: relative;
+    top: 59px;
+}
+
+.entry-user__background_item:first-child {
+    width: 200px;
+    z-index: 0;
+    position: relative;
+    top: 20px;
+}

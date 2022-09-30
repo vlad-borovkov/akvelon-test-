@@ -1,0 +1,9 @@
+.entry-user__container-form {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    align-items: center;
+    width: 358px;
+    height: 461px;
+    z-index: 0;
+}

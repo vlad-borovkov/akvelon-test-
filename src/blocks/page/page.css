@@ -1,0 +1,16 @@
+.page {
+  font-family: Inter, Arial, sans-serif;
+  background-color: #17181E;
+  max-width: 100vw;
+  min-height: 100vh;
+  margin: auto;
+  display: flex;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+}
