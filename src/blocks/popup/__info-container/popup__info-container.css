@@ -2,11 +2,10 @@
     display: flex;
     background-color: whitesmoke;
     border-radius: 10px;
-    width: 32vw;
-    height: 31vh;
+    width: 50vw;
+    height: 52vh;
     flex-direction: column;
     margin-right: 10px;
-    margin-bottom: 10px;
     padding: 15px;
     align-items: center;
     justify-content: center;

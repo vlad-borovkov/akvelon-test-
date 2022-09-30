@@ -1,8 +1,8 @@
 .popup__gallery-close-icone {
   position: absolute;
   display: block;
-  top: -37px;
-  right: -37px;
+  top: -18px;
+  right: -30px;
   width: 32px;
   height: 32px;
   margin: 0;
@@ -20,7 +20,7 @@
 }
 
 @media screen and (max-width: 580px) and (min-width: 320px) {
-  .popup__gallery-close-icone  {
+  .popup__gallery-close-icone {
     background-image: url(./../../../images/Close_Icon_mobile.svg);
     right: 0px;
     top: -32px;
